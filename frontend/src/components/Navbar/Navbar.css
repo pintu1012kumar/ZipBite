@@ -1,9 +1,16 @@
-.navbar{
-    padding: 20px 0px;
+
+.navbar {
+    padding: 20px 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: -webkit-sticky; /* For Safari */
+    position: sticky;
+    top: 0;
+    background-color: white; /* Optional: Set a background color to avoid transparency issues */
+    z-index: 1000; /* Optional: Ensure the navbar stays on top of other elements */
 }
+
 
 .navbar .logo{
     width: 125px;
