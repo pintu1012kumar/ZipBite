@@ -34,8 +34,8 @@ const Header =() => {
       </div>
          <div className="header-contents">
             <h2>Order your favourite food here..</h2>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem vel praesentium quo ratione velit illo natus est quibusdam unde architecto voluptatum, quisquam harum enim reprehenderit optio explicabo ex dolore soluta.</p>
-            <button>View Menu</button>
+            <p>Chose from a diverse menu featuring a delactable array of dishes crafted with the finest ingradients and culinary expertise. Our mission is to satisfy your cravings and elevate your dining experience,one delicious meal at a time.</p>
+              <button>View Menu</button>
          </div>
         </div>
     )
